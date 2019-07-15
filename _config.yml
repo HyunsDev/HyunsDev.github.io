@@ -1,14 +1,14 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Hyuns
+bio: 평범한 학생
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Hyuns의 평범한 페이지
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/profile.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -42,7 +42,7 @@ twitter: mytwitter
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: HyunsDev
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -51,21 +51,21 @@ github: mygithub
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: phw3071@naver.com
 
 authors:
     johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+        name: Hyuns
+        bio: 평범한 학생
         external-image: false
-        picture: assets/images/profile.jpg
-        twitter: johndoe
+        picture: assets/images/profile.png
+        twitter: Hyuns
     jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
+        name: Hyuns
+        bio: 평범한 학생
         external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        picture: assets/images/profile.png
+        twitter: Hyuns
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
