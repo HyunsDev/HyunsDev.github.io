@@ -34,13 +34,13 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: https://www.facebook.com/hyuns3071
+facebook: hyuns3071
 # twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
-youtube: https://www.youtube.com/channel/UCOwJjYILli0hExnfEcUgjsg
+youtube: channel/UCOwJjYILli0hExnfEcUgjsg
 # spotify: myspotify
 github: HyunsDev
 # gitlab: mygitlab
@@ -48,7 +48,7 @@ github: HyunsDev
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+#medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: phw3071@naver.com
@@ -57,20 +57,20 @@ authors:
     johndoe:
         name: Hyuns
         bio: 평범한 학생
-        external-image: false
+        external-image: true
         picture: assets/images/profile.png
         twitter: Hyuns
     jamesfoster:
         name: Hyuns
         bio: 평범한 학생
-        external-image: false
+        external-image: true
         picture: assets/images/profile.png
         twitter: Hyuns
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: Large
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
