@@ -15,17 +15,12 @@
 
 				<!-- Header -->
 					<header id="header">
-						<h1>Hyuns</h1>
-						<p style="font-family: 'Gugi', cursive;">모션그래픽 디자이너이며 &nbsp;&bull;&nbsp; 개발자인 &nbsp;&bull;&nbsp; 평범한 중학생</p>
-						<nav>
-							<ul>
-								<li><a href="login.php" class="icon fa-lock"><span class="label">아랜델 왕국</span></a></li>
-								<li><a href="https://open.kakao.com/me/hyuns3071" class="icon fa-comment"><span class="label">카카오톡</span></a></li>
-								<li><a href="http://www.youtube.com/c/HyunSPRODUCTION" class="icon fa-youtube-play"><span class="label">Hyuns youtube</span></a></li>
-								<li><a href="https://facebook.com/hyuns3071" class="icon fa-facebook-square"><span class="label">FaceBook</span></a></li>
-								<li><a href="dino.html" class="icon fa-gamepad"><span class="label">dinoGame</span></a></li>
-							</ul>
-						</nav>
+						<p style="font-family: 'Gugi', cursive;">암호를 입력해주세요.</p>
+						<form action="login_process.php">
+							<input type="text" name="password" style="color: black; font-family: 'Gugi', cursive;">
+							<input type="submit" style="font-family: 'Gugi', cursive; height: 90%; background-color: #4D4580; border: 0">
+						</form>
+
 					</header>
 
 				<!-- Footer -->

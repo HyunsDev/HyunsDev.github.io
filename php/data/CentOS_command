@@ -1,0 +1,7 @@
+disbot.py 실행 :: nohup python disbot.py<br>
+로그내용확인 :: cat nohup.out<br>
+로그내용삭제 :: cat /dev/null > nohup.out<br>
+디렉토리내용확인 :: ls , dir<br>
+디렉토리이동 :: cd<br>
+프로세스 확인 :: ps -ef<br>
+vi 편집기 ::<a href="http://web-nara.com/bbs/board.php?bo_table=bo_f_4&wr_id=23">[바로가기]</a>
