@@ -7,7 +7,7 @@ name:               "Hyuns"
 
 author:
   facebook:         hyuns3071
-  youtubeUser:     HyunSPRODUCTION
+  #youtubeUser:     HyunSPRODUCTION
   #youtubeChannel:
   #twitter:          your-id
   github:           hyunsdev
@@ -23,7 +23,7 @@ author:
   email:            phw3071@naver.com
 
 copyright:
-  year:             2017
+  year:             2019
   name:             Hyuns
 
 # Google-analytics
