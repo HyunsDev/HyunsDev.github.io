@@ -7,19 +7,19 @@ name:               "Hyuns"
 
 author:
   facebook:         hyuns3071
-  #youtubeUser:      your-id
+  youtubeUser:      your-id
   youtubeChannel:   HyunsPRODUCTION
-  #twitter:          your-id
+  twitter:          your-id
   github:           hyunsdev
-  #stackoverflow:    your-id
-  #quora:            your-id
-  #linkedin:         your-id
-  #pinterest:        your-id
-  #googlePlus:       your-id
-  #instagram:        your-id
-  #reddit:           your-id
-  #medium:           your-id
-  #tumblr:           your-id
+  stackoverflow:    your-id
+  quora:            your-id
+  linkedin:         your-id
+  pinterest:        your-id
+  googlePlus:       your-id
+  instagram:        your-id
+  reddit:           your-id
+  medium:           your-id
+  tumblr:           your-id
   email:            phw3071@naver.com
 
 copyright:
@@ -85,7 +85,7 @@ defaults:
       layout:       "post"
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
-romote_theme : aweekj/Kiko-plus
+remote_theme : aweekj/Kiko-plus
 
 gems:
   - jekyll-seo-tag
