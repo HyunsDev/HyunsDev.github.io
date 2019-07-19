@@ -1,6 +1,11 @@
 .DS_Store
+
+# Compiled site
 _site
+
+# Sass garbage
 .sass-cache
-Gemfile.lock
-.bundle
+
+# Bundler
+.bundle/
 vendor/
